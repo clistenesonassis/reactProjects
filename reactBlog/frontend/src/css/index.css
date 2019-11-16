@@ -1,0 +1,20 @@
+.ActionsButton {
+    float: left;
+    margin-right: 5px;
+}
+
+.ActionsButton a {
+    color: black;
+}
+
+.ActionsButton a:hover {
+    color:rgb(2, 91, 255);
+}
+
+#RecordedSessionsContainer {
+    margin: 20px 40px;
+}
+
+#schendule {
+    margin: 10px 0px 0px 40px;
+}
